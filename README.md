@@ -10,7 +10,7 @@ Breve resumo (2-3 linhas) do objetivo do trabalho — pode copiar direto do seu 
 - `outputs/` — histórias de usuário geradas por cada LLM (Claude, DeepSeek, Gemini), uma pasta por modelo.
 - `aqusa-reports/` — relatórios HTML gerados pela ferramenta AQUSA-core para cada conjunto de histórias.
 - `resultados/` — planilha consolidada com a categorização dos defeitos (Defect kind, Subkind, Message).
-- `paper/` — artigo final em PDF.
+- `artigo/` — artigo final em PDF.
 
 ## Como reproduzir
 1. Importe o dataset TAWOS em um banco MySQL local (instruções no repositório oficial: https://github.com/SOLAR-group/TAWOS).

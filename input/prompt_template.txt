@@ -1,0 +1,8 @@
+Task: Write 3 to 5 user stories for the ’<Component>’in the <Project> project.
+Context:
+Project: <Project>
+Component: <Component>
+Description: <Description>.
+Please create a list of user stories based on these
+features so the team knows what to build. List them
+one per line.

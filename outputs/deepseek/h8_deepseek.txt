@@ -1,0 +1,9 @@
+As a developer, I want to annotate my Java entity classes with @Table and @Column annotations so that I can map them to Cassandra tables and columns without writing boilerplate conversion code.
+
+As a developer, I want the mapping framework to support nested objects and user-defined types (UDTs) so that I can map complex, hierarchical data structures to Cassandra's collection and UDT columns.
+
+As a developer, I want to be able to customize type conversion for non-standard Java types (e.g., LocalDate, UUID, custom enums) using converters or property editors so that I can map domain-specific types seamlessly.
+
+As a developer, I want the mapping subsystem to support both field-based and property-based (getter/setter) access strategies, with configurable naming strategies (e.g., camelCase to snake_case), so that I can choose the style that fits my existing codebase.
+
+As a developer, I want the mapping API to handle Cassandra ResultSet to List<T> conversion with support for pagination, paging state, and fetching strategies so that I can efficiently retrieve large result sets without memory exhaustion.

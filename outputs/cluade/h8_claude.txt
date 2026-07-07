@@ -1,0 +1,5 @@
+As a developer, I want Cassandra Rows to be automatically converted into rich Java domain objects so that I can work with strongly-typed entities instead of raw result sets.
+As a developer, I want support for annotation-based mapping (e.g., @Table, @Column, @Id) so that I can declaratively define how my Java classes map to Cassandra tables.
+As a developer, I want support for mapping complex/nested types (e.g., collections, UDTs) so that I can model rich domain objects that reflect Cassandra's data structures.
+As a developer, I want custom converters for type conversion between Java types and Cassandra column types so that I can handle non-trivial or custom data type mappings.
+As a developer, I want mapping errors (e.g., type mismatches, missing fields) to produce clear, descriptive exceptions so that I can quickly diagnose and fix mapping configuration issues.

@@ -1,0 +1,5 @@
+As a developer, I want to use a Fluent Template API in CassandraTemplate so that I can construct complex CRUD operations with a readable, type-safe DSL instead of writing manual CQL strings.
+As a developer, I want to access ReactiveCassandraTemplate so that I can perform non-blocking, asynchronous database operations, allowing my application to handle high-concurrency workloads efficiently.
+As a performance engineer, I want the Template API to automatically prepare and cache CQL statements, so that I can maximize throughput and reduce the overhead of statement parsing on the Cassandra cluster.
+As a data architect, I want the template to support batch operations via CassandraBatchOperations, so that I can perform atomic updates across multiple tables or partitions in a single request.
+As a maintainer, I want to leverage consistent DataAccessException translation, so that I can catch database-specific errors and handle them in a vendor-agnostic way using Spring’s standard exception hierarchy.

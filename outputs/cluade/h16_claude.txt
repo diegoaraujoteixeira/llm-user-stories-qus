@@ -1,0 +1,5 @@
+As a developer, I want auto-indentation when writing Ruby code so that my code blocks (methods, classes, control structures) remain properly formatted automatically.
+As a developer, I want automatic pair matching (e.g., brackets, quotes, do/end) so that I can write Ruby syntax quickly without leaving unbalanced or mismatched pairs.
+As a developer, I want double-click and triple-click selection behavior in the Ruby editor so that I can quickly select words, expressions, or entire lines/blocks for editing.
+As a developer, I want pair highlighting (e.g., matching do/end or brackets) so that I can easily identify the scope of a method, block, or class while editing.
+As a developer, I want access to Ruby code templates and a dedicated browsing perspective so that I can quickly scaffold common code patterns and navigate my Ruby project structure efficiently.

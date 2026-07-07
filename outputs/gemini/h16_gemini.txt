@@ -1,0 +1,9 @@
+As a Ruby developer, I want an intelligent auto-indentation feature that understands Ruby’s block structures (do...end, begin...end, def...end) so that my code remains clean and idiomatic without manual formatting.
+
+As a developer, I want visual pair matching and highlighting for Ruby syntax (brackets, braces, and do...end keywords) so that I can easily keep track of nested logic and block boundaries in complex scripts.
+
+As a productivity-focused user, I want support for double and triple-click selection in the Ruby editor so that I can quickly select variable names, method calls, or entire lines of code for faster editing.
+
+As a project lead, I want branded icons and a tailored browsing perspective for Ruby files so that I can quickly navigate through large object-oriented structures and identify classes, modules, and methods within my project tree.
+
+As a Ruby developer, I want a library of customizable Ruby code templates so that I can rapidly scaffold common patterns, such as class definitions, RSpec tests, or Rails controllers, saving time on repetitive typing.

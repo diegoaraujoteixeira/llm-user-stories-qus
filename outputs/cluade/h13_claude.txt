@@ -1,0 +1,5 @@
+As a developer, I want auto-indentation when writing CSS rules so that my stylesheets remain consistently formatted without manual effort.
+As a developer, I want automatic pair matching (e.g., brackets, quotes) so that I can write CSS syntax quickly and avoid unbalanced/missing characters.
+As a developer, I want double-click and triple-click selection behavior in the CSS editor so that I can quickly select words, values, or entire rules for editing.
+As a developer, I want pair highlighting (e.g., matching braces) so that I can easily identify the scope of a CSS rule or block while editing.
+As a developer, I want access to CSS code templates and a dedicated browsing perspective so that I can quickly scaffold common styles and navigate my stylesheet structure efficiently.

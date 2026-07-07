@@ -1,0 +1,9 @@
+As a JavaScript developer, I want the JS editor to support auto-indentation that intelligently formats nested functions, object literals, arrays, and conditional statements so that my code remains consistently structured and easy to read.
+
+As a JavaScript developer, I want the JS editor to provide automatic pair matching and pair highlighting for {}, [], (), and template literal backticks so that I can quickly spot unclosed brackets and avoid syntax errors.
+
+As a JavaScript developer, I want the JS editor to support triple-click selection that selects the entire function or block, and double-click selection that selects the current word or property name so that I can efficiently refactor and navigate my code.
+
+As a JavaScript developer, I want the JS editor to include code templates (snippets) for common patterns like function, arrow function, class, promise, async/await, forEach, and addEventListener, with tab-stop placeholders, so that I can write modern JavaScript faster without memorizing every syntax detail.
+
+As a JavaScript developer, I want the JS browsing perspective to provide a dedicated workspace with a project explorer, an outline view showing functions, variables, classes, and event handlers, and integration with a built-in browser preview so that I can navigate large scripts and instantly see the results of my changes.

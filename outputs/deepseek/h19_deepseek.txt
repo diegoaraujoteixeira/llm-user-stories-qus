@@ -1,0 +1,9 @@
+As a front-end developer, I want the Sass editor to provide syntax highlighting for both .sass (indented syntax) and .scss (SCSS syntax) files, including highlighting for variables ($var), mixins (@mixin/@include), functions, nesting, and interpolation (#{$var}), so that I can visually distinguish language elements and reduce syntax errors.
+
+As a front-end developer, I want the Sass editor to support auto-indentation and smart outdenting that respects nesting levels in both indented and SCSS syntax, so that I can maintain proper hierarchy for nested selectors and rules without manual formatting.
+
+As a front-end developer, I want the Sass editor to provide code templates (snippets) for common Sass constructs such as @mixin, @include, @extend, @import, @function, @for, @each, and @while loops, with tab-stop placeholders, so that I can write maintainable stylesheets faster and with fewer typos.
+
+As a front-end developer, I want the Sass browsing perspective to include an outline view that displays variables, mixins, functions, placeholders (%extend), and nested selector hierarchies so that I can quickly navigate large stylesheets and understand the structure of my styles at a glance.
+
+As a front-end developer, I want the Sass editor to provide content assist (auto-completion) that suggests variables, mixins, functions, and CSS properties/values from the current file and imported partials, so that I can write code more efficiently and discover available styles within my project.

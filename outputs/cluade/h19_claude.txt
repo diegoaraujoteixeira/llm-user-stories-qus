@@ -1,0 +1,5 @@
+As a developer, I want syntax highlighting for Sass files (.sass/.scss) so that I can easily read and distinguish variables, mixins, nesting, and selectors while editing.
+As a developer, I want auto-indentation and auto-completion for Sass syntax (e.g., variables, mixins, nested rules) so that I can write stylesheets faster and with fewer errors.
+As a developer, I want pair matching and pair highlighting for Sass-specific constructs (e.g., braces, interpolation #{}) so that I can easily track the scope of rules and expressions.
+As a developer, I want content assist for Sass-specific features (e.g., @mixin, @include, @extend, variables) so that I can quickly reference and reuse existing code.
+As a developer, I want a dedicated browsing perspective and code templates for Sass so that I can navigate my stylesheet structure and scaffold common patterns efficiently.

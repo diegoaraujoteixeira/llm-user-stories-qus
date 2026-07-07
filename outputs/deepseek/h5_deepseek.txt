@@ -1,0 +1,9 @@
+As a data analyst, I want to export data from HDFS to a relational database (e.g., MySQL, PostgreSQL, or Oracle) using a configurable sink module so that I can make streaming results available for BI tools and operational reporting.
+
+As a data engineer, I want to export HDFS data to MongoDB (or other document stores) with configurable collection mapping and batching so that I can support flexible, schema-less downstream applications.
+
+As a data scientist, I want to export HDFS datasets to R (via RServe or CSV export) so that I can perform statistical analysis and visualization directly on processed streaming data.
+
+As an operator, I want the export process to support incremental exports (based on timestamp or partition filters), checkpointing, and retry logic so that I can avoid full reloads and ensure reliable data transfer without manual intervention.
+
+As a developer, I want the export module to provide transformation options (e.g., field selection, type conversion, and filtering) during the HDFS-to-target write path so that I can reshape data on the fly without pre-processing in an earlier pipeline stage.

@@ -1,0 +1,9 @@
+As a web developer, I want to configure automated deployment profiles for FTP, SFTP, and FTPS so that I can upload my files to production or staging servers directly from the IDE.
+
+As a DevOps engineer, I want to integrate Capistrano deployment scripts into the project lifecycle so that I can manage complex application deployments, migrations, and rollbacks via the command line or IDE menus.
+
+As a lead developer, I want to define "keep-synchronized" deployment rules so that files are automatically published to the remote server as soon as I save my changes, reducing the time spent on manual transfers.
+
+As a team member, I want the Publishing component to maintain connection state and credentials securely, so that I can quickly reconnect to multiple target environments without re-entering sensitive information.
+
+As a system administrator, I want to view detailed transfer logs and synchronization reports so that I can verify the success of a deployment and quickly resolve any file permission or transfer conflicts.

@@ -1,0 +1,5 @@
+As a developer, I want programmatic support for creating and dropping keyspaces so that I can manage schema setup as part of application initialization or testing.
+As a developer, I want programmatic support for creating, altering, and dropping column families/tables so that I can manage schema changes without manually running CQL scripts.
+As an operator, I want access to ring/cluster topology information (e.g., node status, token ranges) so that I can monitor cluster health and distribution from within the application.
+As a developer, I want schema management operations to integrate with entity mapping metadata so that tables can be automatically created or validated based on annotated domain classes.
+As an administrator, I want administrative operations to support keyspace replication configuration (e.g., replication factor, strategy) so that I can control data durability and availability settings.

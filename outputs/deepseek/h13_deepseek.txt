@@ -1,0 +1,9 @@
+As a web developer, I want the CSS editor to support auto-indentation that intelligently formats nested selectors and rule blocks so that my stylesheets remain readable and consistently structured as I write.
+
+As a web developer, I want the CSS editor to provide automatic pair matching and pair highlighting for braces {}, parentheses (), and brackets [] so that I can quickly identify unclosed blocks and avoid syntax errors.
+
+As a web developer, I want the CSS editor to support triple-click selection that selects the entire rule block (selector + declaration block) and double-click selection that selects the current word/selector so that I can efficiently copy, cut, or delete entire style rules.
+
+As a web developer, I want the CSS editor to include code templates (e.g., @keyframes, media queries, flexbox layouts, and vendor-prefixed properties) with tab-stop placeholders so that I can insert boilerplate CSS patterns quickly and customize them without typing repetitive syntax.
+
+As a web developer, I want Aptana Studio's CSS perspective and browsing views to provide a dedicated workspace with the project explorer, outline view (showing selectors, properties, and @-rules), and live preview integration so that I can navigate large CSS files and see rendered results in context.

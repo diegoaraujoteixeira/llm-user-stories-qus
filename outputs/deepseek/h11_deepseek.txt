@@ -1,0 +1,9 @@
+As a developer, I want a CassandraTemplate that provides CRUD operations (insert, update, delete, and select) for my entity classes so that I can perform common data access tasks without writing CQL queries manually.
+
+As a developer, I want the CassandraTemplate to support fluent query methods (e.g., query(Query).columns(...).consistencyLevel(...).fetchSize(...)) so that I can build type-safe, readable queries with runtime options like consistency and pagination.
+
+As a developer, I want the CassandraTemplate to provide methods for executing raw CQL statements (execute, queryForObject, queryForList) with automatic ResultSet-to-object conversion so that I can run custom queries while still benefiting from the mapping layer.
+
+As a developer, I want the template API to support batch operations (e.g., batchInsert, batchUpdate, and batchDelete) with configurable batch size and consistency levels so that I can optimize write performance for large data volumes.
+
+As a developer, I want the CassandraTemplate to provide asynchronous and reactive variants (e.g., asyncInsert, reactivelyQuery) that return CompletableFuture or Flux/Mono so that I can integrate with non-blocking application stacks without blocking on database calls.

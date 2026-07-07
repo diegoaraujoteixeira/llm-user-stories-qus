@@ -1,0 +1,5 @@
+As a developer, I want auto-indentation when writing JavaScript code so that my functions, blocks, and control structures remain properly formatted automatically.
+As a developer, I want automatic pair matching (e.g., brackets, parentheses, quotes) so that I can write JavaScript syntax quickly without leaving unbalanced or mismatched pairs.
+As a developer, I want double-click and triple-click selection behavior in the JS editor so that I can quickly select words, expressions, or entire statements/blocks for editing.
+As a developer, I want pair highlighting (e.g., matching braces/parentheses) so that I can easily identify the scope of a function or block while editing.
+As a developer, I want access to JavaScript code templates and a dedicated browsing perspective so that I can quickly scaffold common code patterns and navigate my JS project structure efficiently.

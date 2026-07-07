@@ -1,0 +1,5 @@
+As a developer, I want to publish my project files via FTP so that I can deploy my application to a remote web server directly from the IDE.
+As a developer, I want to publish my project files via SFTP and FTPS so that I can deploy securely to servers requiring encrypted connections.
+As a developer, I want Capistrano deployment integration so that I can automate multi-server deployment workflows for Ruby-based applications directly from Aptana Studio.
+As a developer, I want to configure and save multiple deployment/connection profiles so that I can quickly switch between different environments (e.g., staging, production) without re-entering credentials.
+As a developer, I want to see publishing progress and logs (e.g., file transfer status, errors) so that I can confirm successful deployment or troubleshoot failed transfers.

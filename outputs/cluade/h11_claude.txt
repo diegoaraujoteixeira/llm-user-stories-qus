@@ -1,0 +1,5 @@
+As a developer, I want a CassandraTemplate with common CRUD operations (insert, update, delete, select) so that I can interact with Cassandra without writing raw CQL for routine tasks.
+As a developer, I want the Template API to support executing custom CQL queries so that I can handle complex or non-standard queries not covered by the standard CRUD methods.
+As a developer, I want the Template API to support asynchronous and reactive operations so that I can build non-blocking applications that scale efficiently with Cassandra's distributed nature.
+As a developer, I want the Template API to support batch operations (e.g., batch inserts/updates) so that I can efficiently perform multiple writes in a single execution.
+As a developer, I want the Template API to integrate with the mapping layer so that query results are automatically converted to and from domain objects without extra manual mapping code.

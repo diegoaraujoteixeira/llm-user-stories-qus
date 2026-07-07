@@ -1,0 +1,5 @@
+As a developer, I want a "Go To Declaration" feature so that I can quickly jump to where a variable, function, or class is defined.
+As a developer, I want a "Find References" feature so that I can locate all usages of a variable, function, or class across my project.
+As a developer, I want an "Open Type" feature so that I can quickly search for and navigate to a specific class or type by name.
+As a developer, I want hyperlink navigation within the editor (e.g., Ctrl/Cmd+click on a symbol) so that I can jump directly to related code without manually searching for it.
+As a developer, I want navigation features to work consistently across supported languages (JS, Ruby, CSS, etc.) so that I have a uniform code-browsing experience regardless of file type.

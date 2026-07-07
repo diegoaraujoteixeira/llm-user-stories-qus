@@ -1,0 +1,5 @@
+As a data engineer, I want to ingest data directly into HDFS so that I can store large volumes of streaming data for downstream batch processing and analytics.
+As a developer, I want to configure a file-based source module so that I can tail or poll files/directories and stream new content as it arrives.
+As an operator, I want ingestion into HDFS to support partitioning (e.g., by date or custom rules) so that data is organized efficiently for querying and processing.
+As a user, I want file-based ingestion to emit events on file creation, modification, or completion so that downstream processors can react to file lifecycle changes.
+As a system administrator, I want configurable rollover policies (size or time-based) for HDFS file writes so that data files are managed efficiently and don't grow unbounded.

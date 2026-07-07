@@ -1,0 +1,9 @@
+As a Ruby developer, I want the Ruby editor to support auto-indentation that intelligently aligns do...end blocks, if/else/end conditionals, def/end method definitions, and hash literals so that my code remains clean and follows community conventions.
+
+As a Ruby developer, I want the Ruby editor to provide automatic pair matching and pair highlighting for {}, [], (), and do/end pairs so that I can quickly identify unclosed blocks and avoid syntax errors.
+
+As a Ruby developer, I want the Ruby editor to support triple-click selection that selects entire method definitions or class bodies, and double-click selection that selects the current word or symbol so that I can efficiently copy, cut, or refactor code structures.
+
+As a Ruby developer, I want the Ruby editor to include code templates (snippets) for common constructs like def, class, module, if/else, begin/rescue/end, and RSpec/Minitest test blocks with tab-stop placeholders so that I can accelerate development and reduce repetitive typing.
+
+As a Ruby developer, I want the Ruby browsing perspective to provide a dedicated workspace with the project explorer, an outline view showing classes, modules, methods, and constants (with hierarchy navigation), and a Rake tasks view so that I can navigate large codebases and run build tasks efficiently.

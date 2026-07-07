@@ -1,0 +1,9 @@
+As a QA engineer, I want to run automated acceptance test suites against a fully deployed Spring XD cluster (admin + multiple containers) so that I can validate end-to-end stream behavior across all supported message transports (e.g., RabbitMQ, Kafka, Redis).
+
+As a QA engineer, I want test scenarios that exercise every out-of-the-box module (all sources, processors, and sinks) in combination with each other so that I can ensure module interoperability and catch integration regressions.
+
+As a release manager, I want the acceptance test suite to include performance and throughput benchmarks (e.g., messages per second) under varying load conditions so that I can verify the cluster meets expected SLAs before a release.
+
+As a QA engineer, I want the acceptance tests to cover failure scenarios such as container crashes, network timeouts, and transport disconnections, with automatic recovery validation so that I can confirm the cluster's resilience and fault-tolerance capabilities.
+
+As a developer, I want the acceptance test results to produce clear, actionable reports (e.g., pass/fail status, logs, and metrics) across all tested transports and module combinations so that I can quickly identify and fix breaking changes introduced during development.

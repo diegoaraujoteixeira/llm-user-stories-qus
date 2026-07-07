@@ -1,0 +1,5 @@
+As a data engineer, I want to configure an HDFS sink module so that incoming stream data is automatically persisted into a distributed file system for long-term storage.
+As a data analyst, I want the system to automatically handle file rolling based on time or size intervals so that I can manage large datasets without manual intervention.
+As a developer, I want to specify file naming patterns and partition strategies in the HDFS sink so that my data is organized logically within the HDFS directory structure.
+As a system architect, I want the ingest process to support event-driven file ingestion so that files appearing in a watched directory are immediately processed and moved into the stream.
+As an operations lead, I want the system to ensure data integrity during HDFS writes so that partially written files do not cause issues for downstream batch jobs.

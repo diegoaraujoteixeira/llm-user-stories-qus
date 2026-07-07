@@ -1,0 +1,9 @@
+As a developer, I want a CassandraSessionFactory that manages the lifecycle of the underlying Cassandra driver Session (including connection pooling, reconnection, and retry policies) so that I can obtain ready-to-use sessions without manual resource handling.
+
+As a developer, I want the SessionFactory to support schema initialization (e.g., CREATE TABLE IF NOT EXISTS, CREATE INDEX, and ALTER TABLE) based on my entity mappings so that I can automatically synchronize the database schema with my domain model during application startup.
+
+As an operator, I want the SessionFactory to expose health indicators (e.g., connectivity status, last successful connection attempt, and cluster node state) so that I can monitor Cassandra availability through Spring Boot Actuator endpoints.
+
+As a developer, I want the SessionFactory to support multiple keyspaces and dynamic keyspace switching at runtime so that I can interact with different logical databases within the same application context.
+
+As a developer, I want the SessionFactory to provide access to lower-level Cassandra driver features (e.g., Statement execution, prepared statement caching, and async operations) while still leveraging Spring's exception translation so that I can perform custom queries when the repository abstraction is insufficient.

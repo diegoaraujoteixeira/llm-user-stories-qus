@@ -1,0 +1,9 @@
+As a data engineer, I want to configure a file-based source module that tailors or polls files from a local or network directory so that I can reliably ingest file data into the Spring XD stream pipeline.
+
+As a data engineer, I want the file source to emit a file-ready event (e.g., file name, path, size, and timestamp) upon detecting a new or modified file so that downstream processors can react to file arrivals before the full content is read.
+
+As a data engineer, I want to write streaming data from a Spring XD stream to HDFS using a sink module that supports configurable file formats (e.g., text, Avro, Parquet) and partitioning strategies so that I can store large-scale data efficiently for batch analytics.
+
+As an operations user, I want the file source to track processed files (e.g., via persistence or markers) to prevent re-ingestion upon restart, and emit ingestion completion events so that I can ensure exactly-once or at-least-once semantics for file-based data loads.
+
+As a developer, I want the file source to support event-driven notifications (e.g., using a directory watcher or trigger) and expose metrics (e.g., files ingested, bytes read, errors) so that I can monitor ingestion progress and troubleshoot issues in real time.
